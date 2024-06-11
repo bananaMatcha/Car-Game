@@ -1,0 +1,14 @@
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\bin\Debug\net8.0\Custom.exe
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\bin\Debug\net8.0\Custom.deps.json
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\bin\Debug\net8.0\Custom.runtimeconfig.json
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\bin\Debug\net8.0\Custom.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\bin\Debug\net8.0\Custom.pdb
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\obj\Debug\net8.0\Custom.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\obj\Debug\net8.0\Custom.AssemblyInfoInputs.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\obj\Debug\net8.0\Custom.AssemblyInfo.cs
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\obj\Debug\net8.0\Custom.csproj.CoreCompileInputs.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\obj\Debug\net8.0\Custom.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\obj\Debug\net8.0\refint\Custom.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\obj\Debug\net8.0\Custom.pdb
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\obj\Debug\net8.0\Custom.genruntimeconfig.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Custom\obj\Debug\net8.0\ref\Custom.dll
